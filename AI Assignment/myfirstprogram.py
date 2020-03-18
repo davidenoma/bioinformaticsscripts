@@ -1,0 +1,2 @@
+import myfirstmodule
+myfirstmodule.printsomething()
